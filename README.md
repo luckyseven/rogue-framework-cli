@@ -22,7 +22,7 @@ Then use `rogue init` to create a brand new Rogue project:
 $ rogue init
 ```
 
-#### Read the documentation
+## Read the documentation
 Read the [Rogue Framework documentation](https://www.npmjs.com/package/rogue-framework) for further informations.
 
 ## Have you used this plugin in your project?
