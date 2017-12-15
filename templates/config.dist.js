@@ -1,20 +1,10 @@
 module.exports = {
     main: {
         port    : 4000,
-        debug   : false,
+        debug   : false
     },
-    jwt: {
-        secret      : 'PutASecretKeyHere',
-        expiration  : Math.floor(Date.now() / 1000) + (60 * 60 * 24 * 365 * 10)
-    },
-    folders: {
-
-    },
-    controllers: [
-        'main'
-    ],
     routes: {
-        '/api/v1' : 'default',
+        '/api/v1' : 'default'
     },
     modules : {
         logger: {
