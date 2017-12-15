@@ -1,8 +1,9 @@
 {
   "name": "rogue-framework-cli",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Command-Line Interface for Rogue Framework",
   "main": "index.js",
+  "repository": "luckyseven/rogue-framework-cli",
   "dependencies": {
     "chalk": "^2.3.0",
     "child-process-promise": "^2.2.1",

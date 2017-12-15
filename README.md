@@ -1,6 +1,6 @@
 # Rogue Framework CLI
 
-Command-Line Interface for [rogue-framework](https://www.npmjs.com/package/rogue-framework).
+Command-Line Interface for [rogue-framework](https://github.com/luckyseven/rogue-framework).
 
 ## Installation
 Install `rogue-framework-cli` globally with `npm install`:
