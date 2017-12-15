@@ -1,6 +1,6 @@
 {
   "name": "rogue-framework-cli",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Command-Line Interface for Rogue Framework",
   "main": "index.js",
   "repository": "luckyseven/rogue-framework-cli",
