@@ -1,0 +1,22 @@
+{
+  "name": "rogue-framework-cli",
+  "version": "1.0.6",
+  "description": "Command-Line Interface for Rogue Framework",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "child-process-promise": "^2.2.1",
+    "clear": "0.0.1",
+    "commander": "^2.12.2",
+    "figlet": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "rogue": "./index.js"
+  },
+  "author": "Alberto Fecchi <alberto.fecchi@gmail.com> (https://www.luckyseven.it)",
+  "license": "MIT"
+}
