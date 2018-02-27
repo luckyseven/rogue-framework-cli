@@ -33,7 +33,8 @@ if (program.init) {
         '/modules',
         '/routes',
         '/schemas',
-        '/logs'
+        '/logs',
+        '/utils'
     ];
 
     const files = [
