@@ -6,6 +6,10 @@ module.exports = {
     routes: {
         '/api/v1' : 'default'
     },
+    bodyParser: {
+        type: 'json',
+        options: []
+    },
     modules : {
         logger: {
             enabled: true,
