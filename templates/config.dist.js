@@ -6,6 +6,15 @@ module.exports = {
     routes: {
         '/api/v1' : 'default'
     },
+    bodyParser: {
+        type: 'json',
+        options: []
+    },
+    folders: [
+        'uploads',
+        //'dir/sub_dir_1',
+        //'dir/sub_dir_2',
+    ]
     modules : {
         logger: {
             enabled: true,
