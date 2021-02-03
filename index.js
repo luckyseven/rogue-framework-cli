@@ -31,6 +31,7 @@ if (program.init) {
         '/config',
         '/controllers',
         '/modules',
+        '/policies',
         '/routes',
         '/schemas',
         '/logs',
